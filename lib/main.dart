@@ -78,7 +78,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Flutter layout demo'),
+          title: const Text('Camiones Volvo'),
           backgroundColor: Color(0xff2b587c),
         ),
         body: ListView(
